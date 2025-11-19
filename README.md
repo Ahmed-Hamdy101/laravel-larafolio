@@ -125,11 +125,6 @@ Larafolio/
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots or GIFs of your dashboard, board, and CRUD pages here)*
-
----
 
 ## 🤝 Contributing
 
