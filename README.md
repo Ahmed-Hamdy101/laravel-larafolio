@@ -146,4 +146,3 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 Built with ❤️ by **Ahmed-Hamdy101**
 
-> “Code your story. Craft your portfolio. Show your evolution.”
