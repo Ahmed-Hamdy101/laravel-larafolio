@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login-image {
+    @apply bg-cover bg-center min-h-screen flex items-center justify-center;
+    background-image: url('/public/login.png'); /* public/ is auto-resolved */
+}
